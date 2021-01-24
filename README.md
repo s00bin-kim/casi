@@ -1,5 +1,5 @@
 # casi
-Reproducing outputs and plots from ***Computer Age Statistical Inference***, writtem by Bradkey Efron and Trevor Hastie.
+Reproducing outputs and plots from ***Computer Age Statistical Inference***, writtem by Bradley Efron and Trevor Hastie.
 
 This personal project is planned as an extension to course *Advanced Statistical Methods (2020 Fall)* at Seoul National University.
 
